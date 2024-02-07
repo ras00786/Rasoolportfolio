@@ -48,7 +48,7 @@ function Education() {
             date: '2008 - 2017',
             title: 'Secondary Schoool',
             subtitle: 'State board (Andhra Pradesh)',
-            desc: 'Pragathi Vidhya Nilayam HIGH SCHOOL ,Kanigiri',
+            desc: 'Pragathi Vidhya Nilayam HIGH SCHOOL',
         },
     ];
 
