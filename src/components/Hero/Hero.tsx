@@ -26,7 +26,7 @@ export function Hero() {
 
         <ScrollAnimation animateIn="fadeInUp">
           <BrowserRouter>
-            <NavHashLink smooth to="#contact" className="button">Contact</NavHashLink>
+            <a href="https://www.linkedin.com/in/mohammad-rasool66/" className="button">Contact</a>
           </BrowserRouter>
         </ScrollAnimation>
         
