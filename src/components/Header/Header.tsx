@@ -45,10 +45,10 @@ export function Header() {
           <NavHashLink smooth to="#project" onClick={closeMenu}>
             Project
           </NavHashLink>
-          <NavHashLink smooth to="#contact" onClick={closeMenu}>
+          {/* <NavHashLink smooth to="#contact" onClick={closeMenu}>
             Contact
-          </NavHashLink>
-          <a href={CV} download className="button">
+          </NavHashLink> */}
+          <a href="https://docs.google.com/document/d/1G-QH-apGlbRjfOdg3ziK4VlhDIx7I_7x/edit?usp=sharing&ouid=105461616910300263824&rtpof=true&sd=true" className="button">
             CV
           </a>
         </nav>

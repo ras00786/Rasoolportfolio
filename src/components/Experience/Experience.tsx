@@ -37,7 +37,7 @@ function Experience() {
                     {timeline.map((t, i) => {
                         const contentStyle =
             i === 0
-                ? { background: 'rgb(33, 150, 243)', color: '#fff' }
+                ? { background: '#e31f71', color: '#fff' }
                 : undefined;
                         const arrowStyle =
             i === 0
