@@ -4,7 +4,6 @@ import { Hero } from "../Hero/Hero"
 import Education  from "../Education/Education"
 import Experience from "../Experience/Experience"
 import { About } from "../About/About";
-import { Contact } from "../Contact/Contact";
 import { Project } from "../Project/Project";
 
 
@@ -252,7 +251,7 @@ export function Main() {
       <About></About>
       <Education></Education>
       <Experience></Experience>
-      {/* <Project></Project> */}
+      <Project></Project> 
       
     </Container>
   );
