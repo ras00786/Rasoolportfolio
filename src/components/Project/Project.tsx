@@ -74,7 +74,7 @@ export function Project() {
               </div>
             </header>
             <div className="body">
-              <h3>NewEra - Health Care</h3>
+              <h3>NewEra - Health Care(React.Js)</h3>
               <p>
               The new ERA web portal is designed to cater the needs of patients / attorney / Copy Services for medical, billing and XRay documents from doctor facility. Typically, these record requests needed for the patient / attorney / Copy Services as
               a result of legal / court proceeding. In order to request any documents, patient / attorney / Copy Services should register
