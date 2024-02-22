@@ -48,7 +48,7 @@ export function Header() {
           {/* <NavHashLink smooth to="#contact" onClick={closeMenu}>
             Contact
           </NavHashLink> */}
-          <a href="https://docs.google.com/document/d/1G-QH-apGlbRjfOdg3ziK4VlhDIx7I_7x/edit?usp=sharing&ouid=105461616910300263824&rtpof=true&sd=true" className="button">
+          <a href="https://docs.google.com/document/d/1G-QH-apGlbRjfOdg3ziK4VlhDIx7I_7x/edit?usp=sharing&ouid=105461616910300263824&rtpof=true&sd=true" className="button" target='_blank'>
             CV
           </a>
         </nav>
